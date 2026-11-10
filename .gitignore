@@ -1,0 +1,17 @@
+# Compiled classes / build output
+out/
+target/
+bin/
+build/
+*.class
+*.jar
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
